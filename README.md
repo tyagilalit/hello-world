@@ -1,3 +1,3 @@
 # hello-world
-This is test repository
-Hello, these changes are to test the branching concepts
+
+Hello, these changes are to test the branching concepts in github
